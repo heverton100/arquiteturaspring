@@ -3,3 +3,8 @@ spring:
     name: arquiteturaspring
   jpa:
     show_sql: true
+
+app:
+  config:
+    variavel: abc
+
